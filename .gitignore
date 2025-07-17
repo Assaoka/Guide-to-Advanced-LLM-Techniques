@@ -16,3 +16,4 @@ site/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
+/Rodando
